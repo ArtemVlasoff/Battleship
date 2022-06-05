@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+            int counter = 0;
+
+            // write your code here
+
+
+            System.out.println(counter);
+        }
+    }
+
+    /* sample enum for inspiration
+    enum Secret {
+        STAR, CRASH, START, // ...
+    }
+    */
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11521#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 04 Jun 2022 14:24:44 UTC
+record: -1

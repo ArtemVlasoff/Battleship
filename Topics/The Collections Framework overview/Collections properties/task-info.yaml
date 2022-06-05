@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Not all collections can dynamically change their size
+- text: Collections store primitive types
+- text: Collections are built-in in the language syntax, like arrays
+- text: Two collections can be compared using the equals method
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2090#comment
+status: Solved
+record: -1

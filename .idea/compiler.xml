@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task-build-classes-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-reports-tests.main" target="11" />
+      <module name="Battleship.Battleship-task-build-test-results.main" target="11" />
+      <module name="Battleship.Battleship-task-build-tmp.main" target="11" />
+      <module name="Battleship.Battleship-task.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-A_line_that_throws_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Name_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Out_of_bounds.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Square_class.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Battleship.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="Battleship.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Battleship.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Read_into_an_array.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Boxes.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-The_longest_ascending_sequence.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Battleship.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Battleship.Topics-The_Collections_Framework_overview-Blacklist.main" target="11" />
+      <module name="Battleship.Topics-The_Collections_Framework_overview-Collections_properties.main" target="11" />
+      <module name="Battleship.Topics-The_Collections_Framework_overview-Creating_instances.main" target="11" />
+      <module name="Battleship.Topics-The_Collections_Framework_overview-Squares_list.main" target="11" />
+      <module name="Battleship.Topics-The_Collections_Framework_overview-Theory.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Days_of_the_week.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-How_to_throw_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throwable_classes.main" target="11" />
+      <module name="Battleship.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
